@@ -19,7 +19,7 @@ A modern, responsive changelog component for websites that displays updates in a
 ## Live Demo
 
 Check out the live version of this portfolio:  
-🌐 [https://nurf21.github.io/product-changelog](https://nurf21.github.io/product-changelog)
+🌐 [https://nurf21.github.io/changelog-component](https://nurf21.github.io/changelog-component)
 
 ## Project Resources
 
